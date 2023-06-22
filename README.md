@@ -51,5 +51,5 @@
 
 ## Log
 
-+ [github.com/uber-go/zap](https://pkg.go.dev/github.com/uber-go/zap)
++ [go.uber.org/zap](https://pkg.go.dev/go.uber.org/zap)
 + [gopkg.in/natefinch/lumberjack.v2](https://pkg.go.dev/gopkg.in/natefinch/lumberjack.v2)
