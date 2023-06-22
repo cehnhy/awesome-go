@@ -1,55 +1,55 @@
-# Awesome Go
+# Awesome GO
 
-## Official
+## Offical
 
 + [std](https://pkg.go.dev/std)
-+ [x](https://pkg.go.dev/golang.org/x)
++ [golang.org/x](https://pkg.go.dev/golang.org/x)
 
 ## Common
 
-+ [pkg/errors](https://github.com/pkg/errors)
++ [github.com/pkg/errors](https://pkg.go.dev/github.com/pkg/errors)
 
 ## WebSocket
 
-+ [gorilla/websocket](https://github.com/gorilla/websocket)
-+ [olahol/melody](https://github.com/olahol/melody)
++ [github.com/gorilla/websocket](https://pkg.go.dev/github.com/gorilla/websocket)
++ [github.com/olahol/melody](https://pkg.go.dev/github.com/olahol/melody)
 
 ## HTTP
 
 + server
-  + [gin-gonic/gin](https://github.com/gin-gonic/gin)
+  + [github.com/gin-gonic/gin](https://pkg.go.dev/github.com/gin-gonic/gin)
 + client
-  + [go-resty/resty](https://github.com/go-resty/resty)
-  + [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest)
+  + [github.com/go-resty/resty](https://pkg.go.dev/github.com/go-resty/resty)
+  + [github.com/parnurzeal/gorequest](https://pkg.go.dev/github.com/parnurzeal/gorequest)
 
 ## GRPC
 
-+ [grpc/grpc-go](https://github.com/grpc/grpc-go)
-+ [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go)
-+ [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
-+ [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware)
++ [google.golang.org/grpc](https://pkg.go.dev/google.golang.org/grpc)
++ [google.golang.org/protobuf](https://pkg.go.dev/google.golang.org/protobuf)
++ [github.com/grpc-ecosystem/grpc-gateway](https://pkg.go.dev/github.com/grpc-ecosystem/grpc-gateway)
++ [github.com/grpc-ecosystem/go-grpc-middleware](https://pkg.go.dev/github.com/grpc-ecosystem/go-grpc-middleware)
 
 ## Database
 
 + driver
-  + [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
-  + [jackc/pgx](https://github.com/jackc/pgx)
-  + [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3)  
+  + [github.com/go-sql-driver/mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql)
+  + [github.com/jackc/pgx](https://pkg.go.dev/github.com/jackc/pgx)
+  + [github.com/mattn/go-sqlite3](https://pkg.go.dev/github.com/mattn/go-sqlite3)  
 + sql mapping
-  + [jmoiron/sqlx](https://github.com/jmoiron/sqlx)
+  + [github.com/jmoiron/sqlx](https://pkg.go.dev/github.com/jmoiron/sqlx)
 + sql gen
-  + [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc)
+  + [github.com/kyleconroy/sqlc](https://pkg.go.dev/github.com/kyleconroy/sqlc)
 + orm
-  + [go-gorm/gorm](https://github.com/go-gorm/gorm)
+  + [github.com/go-gorm/gorm](https://pkg.go.dev/github.com/go-gorm/gorm)
 + distributed transaction
-  + [seata/seata-go](https://github.com/seata/seata-go)
-  + [dtm-labs/dtm](https://github.com/dtm-labs/dtm)
+  + [github.com/seata/seata-go](https://pkg.go.dev/github.com/seata/seata-go)
+  + [github.com/dtm-labs/dtm](https://pkg.go.dev/github.com/dtm-labs/dtm)
 
 ## S3
 
-+ [minio/minio-go](https://github.com/minio/minio-go)
++ [github.com/minio/minio-go](https://pkg.go.dev/github.com/minio/minio-go)
 
 ## Log
 
-+ [uber-go/zap](https://github.com/uber-go/zap)
-+ [natefinch/lumberjack](https://github.com/natefinch/lumberjack)
++ [github.com/uber-go/zap](https://pkg.go.dev/github.com/uber-go/zap)
++ [gopkg.in/natefinch/lumberjack.v2](https://pkg.go.dev/gopkg.in/natefinch/lumberjack.v2)
