@@ -44,6 +44,7 @@
 + [github.com/gin-gonic/gin](https://pkg.go.dev/github.com/gin-gonic/gin)
 + [github.com/go-resty/resty/v2](https://pkg.go.dev/github.com/go-resty/resty/v2)
 + [github.com/parnurzeal/gorequest](https://pkg.go.dev/github.com/parnurzeal/gorequest)
++ [github.com/quic-go/quic-go](https://pkg.go.dev/github.com/quic-go/quic-go)
 
 ## GRPC
 
