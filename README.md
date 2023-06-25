@@ -46,7 +46,7 @@
 + [github.com/parnurzeal/gorequest](https://pkg.go.dev/github.com/parnurzeal/gorequest)
 + [github.com/quic-go/quic-go](https://pkg.go.dev/github.com/quic-go/quic-go)
 
-## GRPC
+## gRPC
 
 + [google.golang.org/grpc](https://pkg.go.dev/google.golang.org/grpc)
 + [google.golang.org/protobuf](https://pkg.go.dev/google.golang.org/protobuf)
@@ -84,4 +84,7 @@
 
 ## Tools
 
++ [std/cmd](https://pkg.go.dev/cmd)
++ [golang.org/x/tools/cmd](https://pkg.go.dev/golang.org/x/tools/cmd)
++ [github.com/google/wire](https://pkg.go.dev/github.com/google/wire)
 + [golangci-lint](https://golangci-lint.run)
