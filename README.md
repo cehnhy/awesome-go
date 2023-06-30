@@ -72,6 +72,7 @@
 + [github.com/minio/minio-go/v7](https://pkg.go.dev/github.com/minio/minio-go/v7)
 + [github.com/elastic/go-elasticsearch/v8](https://pkg.go.dev/github.com/elastic/go-elasticsearch/v8)
 + [github.com/rabbitmq/amqp091-go](https://pkg.go.dev/github.com/rabbitmq/amqp091-go)
++ [github.com/segmentio/kafka-go](https://pkg.go.dev/github.com/segmentio/kafka-go)
 
 ## Docs
 
@@ -88,3 +89,12 @@
 + [golang.org/x/tools/cmd](https://pkg.go.dev/golang.org/x/tools/cmd)
 + [github.com/google/wire](https://pkg.go.dev/github.com/google/wire)
 + [golangci-lint](https://golangci-lint.run)
+
+## Cloud Native Projects
+
++ [kubernetes](https://github.com/kubernetes/)
++ [prometheus](https://github.com/prometheus/prometheus)
++ [istio](https://github.com/istio/istio)
++ [envoy](https://github.com/envoyproxy/envoy)
++ [etcd](https://github.com/etcd-io/etcd)
++ [minio](https://github.com/minio/minio)
