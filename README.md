@@ -92,8 +92,8 @@
 
 ## Cloud Native Projects
 
-+ [kubernetes](https://github.com/kubernetes/kubernetes)
-+ [prometheus](https://github.com/prometheus/prometheus)
++ [kubernetes](https://github.com/kubernetes)
++ [prometheus](https://github.com/prometheus)
 + [istio](https://github.com/istio/istio)
 + [envoy](https://github.com/envoyproxy/envoy)
 + [etcd](https://github.com/etcd-io/etcd)
