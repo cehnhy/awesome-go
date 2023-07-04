@@ -74,6 +74,10 @@
 + [amqp091-go](https://github.com/rabbitmq/amqp091-go)
 + [kafka-go](https://github.com/segmentio/kafka-go)
 
+## Tracing
+
++ [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+
 ## Docs
 
 + [Awesome Go](https://github.com/avelino/awesome-go)
