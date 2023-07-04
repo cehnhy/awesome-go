@@ -97,4 +97,4 @@
 + [istio](https://github.com/istio/istio)
 + [envoy](https://github.com/envoyproxy/envoy)
 + [etcd](https://github.com/etcd-io/etcd)
-+ [minio](https://github.com/minio/minio)
++ [jaeger](https://github.com/jaegertracing/jaeger)
