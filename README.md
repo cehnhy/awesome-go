@@ -68,15 +68,10 @@
 
 + [go-redis](https://github.com/redis/go-redis)
 + [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-+ [etcd-clientv3](https://github.com/etcd-io/etcd/tree/main/client/v3)
 + [minio-go](https://github.com/minio/minio-go)
 + [go-elasticsearch](https://github.com/elastic/go-elasticsearch)
 + [amqp091-go](https://github.com/rabbitmq/amqp091-go)
 + [kafka-go](https://github.com/segmentio/kafka-go)
-
-## Tracing
-
-+ [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
 
 ## Docs
 
@@ -98,6 +93,7 @@
 
 + [kubernetes](https://github.com/kubernetes)
 + [prometheus](https://github.com/prometheus)
++ [opentelemetry](https://github.com/open-telemetry)
 + [istio](https://github.com/istio/istio)
 + [envoy](https://github.com/envoyproxy/envoy)
 + [etcd](https://github.com/etcd-io/etcd)
