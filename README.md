@@ -88,13 +88,3 @@
 + [x/tools/cmd](https://pkg.go.dev/golang.org/x/tools/cmd)
 + [wire](https://github.com/google/wire)
 + [golangci-lint](https://github.com/golangci/golangci-lint)
-
-## Cloud Native Projects
-
-+ [kubernetes](https://github.com/kubernetes)
-+ [prometheus](https://github.com/prometheus)
-+ [opentelemetry](https://github.com/open-telemetry)
-+ [istio](https://github.com/istio/istio)
-+ [envoy](https://github.com/envoyproxy/envoy)
-+ [etcd](https://github.com/etcd-io/etcd)
-+ [jaeger](https://github.com/jaegertracing/jaeger)
